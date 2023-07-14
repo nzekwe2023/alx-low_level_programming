@@ -1,6 +1,6 @@
 #include<stdio>
 /**
- * main -printing output with printf
+ * main - printing output with printf
  *
  * Return: always (0)
  *
