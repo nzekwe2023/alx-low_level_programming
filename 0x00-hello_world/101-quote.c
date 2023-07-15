@@ -8,6 +8,6 @@
  */
 int main(void)
 {
-	write(2,"and that peice of art is useful\" - Dora Korper, 2015-10-19\n",59);
+	write(2,"and that peice of art is useful" - Dora Korper, 2015-10-19\n",61);
 	return (1);
 }
