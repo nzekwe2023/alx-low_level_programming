@@ -2,11 +2,11 @@
 #include<time.h>
 #include<stdlib.h>
 /**
- * main - print the last digit of a radomly generated number and whether it is greater than 5,less than 6 or 0
+ * main - prints the last digit of a radomly generated number and whether it is greater than 5,less than 6 or 0.
  *
- * Return : Always (0)
+ * Return:Always (0)
  */
-int main(void)
+int main (void)
 {
 	int n;
 	int lastd;
@@ -23,7 +23,7 @@ int main(void)
 	}
 	else
 	{
-		printf(last digit of %d is %d and is less than 6 and not 0\n", n, lastd);
+		printf("last digit of %d is %d and is less than 6 and not 0 \n", n, lastd);
 	}
-	return (0)
+return (0);
 }		
