@@ -1,4 +1,3 @@
-101-main.c
 #include "main.h"
 /**
 * main - check the code
